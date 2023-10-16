@@ -12,6 +12,7 @@ The datasets analysed in the use case are:
 * Svalbard digital elevation model
 
 Watch the video: https://youtu.be/XXa39urDv_g
+
 And open the notebook: https://github.com/CryosphereVirtualLab/cvl_tutorials/blob/main/sar_avalanches_3D_VIZ.ipynb
 
 ## Use case 2. Collocation of SAR data and sea ice charts
