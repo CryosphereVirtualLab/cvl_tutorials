@@ -26,4 +26,6 @@ The datasets analysed in the use case are:
 * SAR imagery from the Norwegian National Ground Segment
 * Sea ice charts from the Norwegian Meteorological Institute
 
+Watch the video: https://youtu.be/0NZvS2dp_yQ
+
 Open the notebook: https://github.com/CryosphereVirtualLab/cvl_tutorials/blob/main/collocate_SAR_and_ice_chart.ipynb
